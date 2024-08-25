@@ -44,17 +44,6 @@
 // var style = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
 // alert(style)
 
-// Assignment No 3 Alerts
-
-// Q1
-// var age = "i am 15 years old"
-// alert (age)
-
-// Q2
-// var note = "visited page 15 times"
-// alert (note)
-
-
 
 
 
